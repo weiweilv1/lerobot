@@ -1,0 +1,1 @@
+uv run lerobot-annotate --repo_id=lvweiwei/put_the_orange_into_box_v1   --new_repo_id=lvweiwei/put_the_orange_into_box_v1_annotated   --push_to_hub=true   --plan.enabled=true   --interjections.enabled=false   --vqa.enabled=false   --vlm.model_id=Qwen/Qwen3.6-27B   --vlm.camera_key=observation.images.top
